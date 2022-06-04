@@ -32,19 +32,6 @@ const PaymentScreen = ({ history }) => {
         >
           <h6>SELECT PAYMENT METHOD</h6>
 
-          <div className="cashondelivery-container">
-            <div className="radio-container">
-              <input
-                className="form-check-input"
-                type="radio"
-                name="payment-method"
-                value=""
-                onChange={(e) => setPaymentMethod(e.target.value)}
-              />
-              <label className="form-check-label">Cash on Delivery</label>
-            </div>
-          </div>
-
           <div className="payment-container">
             <div className="radio-container">
               <input
