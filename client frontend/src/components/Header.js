@@ -28,35 +28,6 @@ const Header = () => {
   return (
     <div>
       {/* Top Header */}
-      <div className="Announcement ">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6 d-flex align-items-center display-none text-light">
-              <i class="fa fa-phone" id="hicon"></i>
-              <p>+91 9952352272</p>
-              <i class="fa fa-envelope" id="hicon"></i>
-              <p>sportyfit@gmail.com</p>
-            </div>
-            <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
-              <Link to="">
-                <i className="fab fa-facebook-f"></i>
-              </Link>
-              <Link to="">
-                <i className="fab fa-instagram"></i>
-              </Link>
-              <Link to="">
-                <i className="fab fa-linkedin-in"></i>
-              </Link>
-              <Link to="">
-                <i className="fab fa-youtube"></i>
-              </Link>
-              <Link to="">
-                <i className="fab fa-pinterest-p"></i>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </div>
       {/* Header */}
       <div className="header">
         <div className="container">
@@ -119,7 +90,7 @@ const Header = () => {
                   )}
 
                   <Link to="/cart" className="cart-mobile-icon">
-                    <i className="fas fa-shopping-bag"></i>
+                    <i class="far fa-shopping-cart"></i>
                     <span className="badge">{cartItems.length}</span>
                   </Link>
                 </div>
@@ -197,7 +168,7 @@ const Header = () => {
                 )}
 
                 <Link to="/cart">
-                  <i className="fas fa-shopping-bag"></i>
+                  <i class="far fa-shopping-cart"></i>
                   <span className="badge">{cartItems.length}</span>
                 </Link>
               </div>

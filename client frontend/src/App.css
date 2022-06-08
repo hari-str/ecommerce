@@ -1,7 +1,6 @@
 body {
   margin: 0;
-  font-family: "Source Sans Pro", sans-serif;
-  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 17px;
@@ -45,22 +44,6 @@ textarea:focus {
   padding: 0;
 }
 
-.Announcement {
-  background-color: #232f3e;
-  padding: 10px 0px 6px 0px;
-}
-
-.Announcement .col-md-6 p {
-  color: white;
-  margin-right: 6rem;
-  font-size: 15px;
-}
-
-.Announcement .col-12 a {
-  color: white;
-  margin-right: 2rem;
-  font-size: 15px;
-}
 
 #p-container {
   max-width: 1200px;
@@ -99,7 +82,7 @@ textarea:focus {
 }
 
 .Login-Register a {
-  font-size: 18px;
+  font-size: 16px;
   margin-right: 2rem;
   position: relative;
 }
@@ -237,12 +220,13 @@ input.form-control:focus {
 .shoptext {
   padding-top: 10px;
   text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .shoptext p a {
   color: #212529;
-  font-weight: 600;
-  font-size: 20px;
+  font-size: 18px;
+
 }
 
 .shoptext h3 {
@@ -276,6 +260,11 @@ input.form-control:focus {
 
 .trend {
   text-align: center;
+  padding: 50px 10px;
+}
+
+.trend h3 {
+  font-weight: 600;
 }
 
 
@@ -415,6 +404,7 @@ input.form-control:focus {
   border: 2px solid #f3f3f3;
   border-radius: 5px;
   margin-top: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .product-count .flex-box {

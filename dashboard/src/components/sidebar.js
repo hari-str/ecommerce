@@ -40,7 +40,7 @@ const Sidebar = () => {
                 className="menu-link"
                 to="/products"
               >
-                <i className="icon fas fa-shopping-bag"></i>
+                <i class="far fa-shopping-cart"></i>
                 <span className="text">Products</span>
               </NavLink>
             </li>
@@ -61,7 +61,7 @@ const Sidebar = () => {
                 className="menu-link"
                 to="/orders"
               >
-                <i className="icon fas fa-bags-shopping"></i>
+                <i class="far fa-shopping-cart"></i>
                 <span className="text">Orders</span>
               </NavLink>
             </li>

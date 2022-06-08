@@ -25,7 +25,7 @@ const ShopSection = (props) => {
 
           <div className="row">
             <div className="col-lg-12 col-md-12 article">
-              <div class="trend p-3"><h1>Trending</h1></div>
+              <div class="trend"><h3>Lastest Products</h3></div>
               <div className="shopcontainer row">
                 {loading ? (
                   <div className="mb-5">

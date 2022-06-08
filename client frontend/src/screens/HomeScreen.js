@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./../components/Header";
+
 import SlideAd from "../components/homeComponents/SlideAd";
 import ShopSection from "./../components/homeComponents/ShopSection";
 import ContactInfo from "./../components/homeComponents/ContactInfo";

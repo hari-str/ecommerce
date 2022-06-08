@@ -27,7 +27,7 @@ const TopTotal = (props) => {
         <div className="card card-body mb-4 shadow-sm">
           <article className="icontext">
             <span className="icon icon-sm rounded-circle alert-success">
-              <i className="text-success fas fa-bags-shopping"></i>
+              <i class="far fa-shopping-cart"></i>
             </span>
             <div className="text">
               <h6 className="mb-1">Total Orders</h6>
