@@ -1,31 +1,21 @@
 # SOURCE CODE
 
-1.  <!-- Frontend File (Static File) without Backend -->
+1.  <!-- FULL ADMIN & CLIENT SOURCE CODE -->
 
-    # https://github.com/irenemmassy/frontend-shoeshop
+     # https://github.com/hari-str/sportyfit-shoe-shop
 
-    <!-- LIVE !-->
+2.   <!-- LIVE !-->
 
-    # https://frontend-shoeshop.herokuapp.com/
+    # https://sportyfit-shoe.herokuapp.com/
 
-2.  <!-- Admin Dashboard File (Static File) without Backend -->
 
-    # https://github.com/irenemmassy/admin-dashboard-shoeshop
 
-    <!-- LIVE ADMIN -->
-
-    # https://admin-dashboard-shoeshop.herokuapp.com
-
-3.  <!-- FULL ADMIN & CLIENT SOURCE CODE -->
-
-    # https://github.com/irenemmassy/Full-SorceCode-ShoeShop-Ecommerce-Web
-
-4.  # SERVER DEPENDENCIES
+3.  # SERVER DEPENDENCIES
 
     npm install bcryptjs dotenv express express-async-handler jsonwebtoken mongoose morgan
     npm install -D concurrently nodemon
 
-5.  # SERVER .ENV
+4.  # SERVER .ENV
 
     PORT =
     NODE_ENV
