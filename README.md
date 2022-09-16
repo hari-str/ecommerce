@@ -13,7 +13,7 @@
 
 
 # Admin page
-##Link :https://sportyfit-admin.herokuapp.com/login
+## Link :https://sportyfit-admin.herokuapp.com/login
 ![1](https://user-images.githubusercontent.com/83942873/172912492-6d4e8878-f735-4204-8275-8be9c7039d5d.jpg)
 ![2](https://user-images.githubusercontent.com/83942873/172912498-e86cecd4-37e6-4f61-a3be-6ddd3712f567.jpg)
 ![3](https://user-images.githubusercontent.com/83942873/172912500-e6abedc4-f9d2-4f88-83e3-b9e801942d19.jpg)
